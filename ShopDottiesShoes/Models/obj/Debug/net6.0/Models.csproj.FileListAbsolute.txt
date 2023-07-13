@@ -1,0 +1,24 @@
+D:\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\Năm 2022.SV3. UTEHY\12520004 . SV3 . Kì 2\Web API\ShopDottiesShoes\Models\bin\Debug\net6.0\Models.deps.json
+D:\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\Năm 2022.SV3. UTEHY\12520004 . SV3 . Kì 2\Web API\ShopDottiesShoes\Models\bin\Debug\net6.0\Models.dll
+D:\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\Năm 2022.SV3. UTEHY\12520004 . SV3 . Kì 2\Web API\ShopDottiesShoes\Models\bin\Debug\net6.0\Models.pdb
+D:\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\Năm 2022.SV3. UTEHY\12520004 . SV3 . Kì 2\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+D:\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\Năm 2022.SV3. UTEHY\12520004 . SV3 . Kì 2\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\Năm 2022.SV3. UTEHY\12520004 . SV3 . Kì 2\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+D:\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\Năm 2022.SV3. UTEHY\12520004 . SV3 . Kì 2\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+D:\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\Năm 2022.SV3. UTEHY\12520004 . SV3 . Kì 2\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+D:\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\Năm 2022.SV3. UTEHY\12520004 . SV3 . Kì 2\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.dll
+D:\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\Năm 2022.SV3. UTEHY\12520004 . SV3 . Kì 2\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\refint\Models.dll
+D:\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\Năm 2022.SV3. UTEHY\12520004 . SV3 . Kì 2\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.pdb
+D:\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\Năm 2022.SV3. UTEHY\12520004 . SV3 . Kì 2\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\ref\Models.dll
+D:\Web API\ShopDottiesShoes\Models\bin\Debug\net6.0\Models.deps.json
+D:\Web API\ShopDottiesShoes\Models\bin\Debug\net6.0\Models.dll
+D:\Web API\ShopDottiesShoes\Models\bin\Debug\net6.0\Models.pdb
+D:\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+D:\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+D:\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+D:\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+D:\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.dll
+D:\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\refint\Models.dll
+D:\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\Models.pdb
+D:\Web API\ShopDottiesShoes\Models\obj\Debug\net6.0\ref\Models.dll

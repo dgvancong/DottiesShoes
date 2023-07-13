@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\\Năm 2022.SV3. UTEHY\\12520004 . SV3 . Kì 2\\Web API\\ShopDottiesShoes\\BLL\\BLL.csproj": {}
+  },
+  "projects": {
+    "D:\\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\\Năm 2022.SV3. UTEHY\\12520004 . SV3 . Kì 2\\Web API\\ShopDottiesShoes\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\\Năm 2022.SV3. UTEHY\\12520004 . SV3 . Kì 2\\Web API\\ShopDottiesShoes\\BLL\\BLL.csproj",
+        "projectName": "Models",
+        "projectPath": "D:\\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\\Năm 2022.SV3. UTEHY\\12520004 . SV3 . Kì 2\\Web API\\ShopDottiesShoes\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\dongv\\.nuget\\packages\\",
+        "outputPath": "D:\\SEK18.1- Khóa 2020- Dong Van Cong. UTEHY\\Năm 2022.SV3. UTEHY\\12520004 . SV3 . Kì 2\\Web API\\ShopDottiesShoes\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dongv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
